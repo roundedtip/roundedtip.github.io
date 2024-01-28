@@ -1,18 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.f855e6bc.css",
-    "main.js": "/static/js/main.9ced5789.js",
+    "main.js": "/static/js/main.f40f3710.js",
     "static/js/787.f83a898c.chunk.js": "/static/js/787.f83a898c.chunk.js",
     "static/media/purple_phones.png": "/static/media/purple_phones.89363e795946e1aecd48.png",
-    "static/media/amplichat_iphones_two.png": "/static/media/amplichat_iphones_two.e63e5897f426dcc9cc49.png",
-    "static/media/concert_classic.jpg": "/static/media/concert_classic.eddfc9fc5ea788a66b35.jpg",
     "static/media/voice_mirror_v_1024.png": "/static/media/voice_mirror_v_1024.b94d9d8e3bf4afaf04c8.png",
     "static/media/amplichat.png": "/static/media/amplichat.92ed03c2799a844cb92b.png",
     "static/media/dreamhub_filled.png": "/static/media/dreamhub_filled.a6dceb5a2b250bd4a70b.png",
     "static/media/purple_light.jpg": "/static/media/purple_light.14f1b000d72efdc922a0.jpg",
+    "static/media/landing-phone-vertical.png": "/static/media/landing-phone-vertical.adacc7f01171d2b19eb3.png",
     "static/media/voiceqna_fill_v2_gradient.png": "/static/media/voiceqna_fill_v2_gradient.8560b1da62e525e8a296.png",
-    "static/media/event_phones.jpeg": "/static/media/event_phones.888cba27cb3b87e9e7d8.jpeg",
-    "static/media/foggy_blue.jpg": "/static/media/foggy_blue.9fdfe4166f30b28ffa53.jpg",
+    "static/media/phone-vertical-black.png": "/static/media/phone-vertical-black.712a9ff2518c8d01ddc3.png",
     "static/media/discord.png": "/static/media/discord.b8b6aebb322890d4171a.png",
     "static/media/guitar.jpg": "/static/media/guitar.759b39178a1fa63a4c92.jpg",
     "static/media/sh_unfill_1024.png": "/static/media/sh_unfill_1024.95d04ca004db3f4f0a94.png",
@@ -20,11 +18,11 @@
     "static/media/apple_store_badge.svg": "/static/media/apple_store_badge.8c4986ee4828b47d16f5cd694ef065f2.svg",
     "index.html": "/index.html",
     "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
-    "main.9ced5789.js.map": "/static/js/main.9ced5789.js.map",
+    "main.f40f3710.js.map": "/static/js/main.f40f3710.js.map",
     "787.f83a898c.chunk.js.map": "/static/js/787.f83a898c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.9ced5789.js"
+    "static/js/main.f40f3710.js"
   ]
 }
